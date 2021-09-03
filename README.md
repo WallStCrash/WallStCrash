@@ -2,7 +2,7 @@
 
 - I am interested in a few topics when it comes to programming. 
 
-- Primarily interested in statistical and geographical data analysis, machine learning, and in particular how these may help improve aspects of quantitative financial research. 
+- Primarily interested in statistical and geographical data analysis, machine learning, and in particular how these may improve aspects of quantitative financial research.
 
 - General interest in non-related field of ethical hacking.
 
