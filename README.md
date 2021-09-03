@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @WallStCrash.
+- Hi, I’m @WallStCrash.
 
-- 👀 I'm interested in a few languages for different purposes. After struggling on a C++ Module at university, I only got into progamming later, via self-learning VBA, R and MySQL for work purposes. My main interests are financial markets research and statistical data analysis.
+- I am interested in a few topics when it comes to programming. 
 
-- 🌱 I’m currently learning Python, focusing on excel task automation.
+- Primarily interested in statistical and geographical data analysis, machine learning, and in particular how these may help improve aspects of quantitative financial research. 
+
+- General interest in non-related field of ethical hacking.
 
 <!---
 WallStCrash/WallStCrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
