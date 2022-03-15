@@ -1,11 +1,23 @@
-- Hi, I’m @WallStCrash.
+Hi, I’m @WallStCrash
+I am primarily interested in learning techniques in Python and R to study several topics I am interested in.
 
-- I am interested in a few topics when it comes to programming. 
+__Python__
+  - Task automation (MS Excel, Windows tasks, Linux tasks, web-query tasks)
+  - Computer Vision, Image Analysis and Remote Sensing
+  - Natural Language Processing
+  - Machine Learning and Deep Learning
 
-- Primarily interested in statistical and geographical data analysis, machine learning, and in particular how these may improve aspects of quantitative financial research.
+__R__
+  - Data Analysis (wrangling, automation, visualisation) 
+  - Natural Language Processing (sentiment analysis of Annual Reports for equity research)
+  - Spatial Data Analysis
 
-- General interest in non-related field of ethical hacking.
-
+__Other__
+  - BASH scripting
+  - Ethical Hacking concepts
+  - Excel/VBA for automation and financial modelling
+  - MySQL for data management
+ 
 <!---
 WallStCrash/WallStCrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
