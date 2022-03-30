@@ -2,10 +2,11 @@ Hi, I’m @WallStCrash
 I am primarily interested in learning techniques in Python and R to study several topics I am interested in.
 
 __Python__
-  - Task automation (MS Excel, Windows tasks, Linux tasks, web-query tasks)
-  - Computer Vision, Image Analysis and Remote Sensing
+  - General Automation
+  - General Data Analysis
+  - Financial Data Analysis
   - Natural Language Processing
-  - Machine Learning, Deep Learning and Mathematics of ML
+  - Natural Language Processing, Deep Learning and Mathematics of Machine Learning
 
 __R__
   - General Data Analysis
