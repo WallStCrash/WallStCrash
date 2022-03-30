@@ -8,17 +8,12 @@ __Python__
   - Machine Learning, Deep Learning and Mathematics of ML
 
 __R__
-  - General Data Analysis (wrangling, automation, visualisation)
+  - General Data Analysis
   - Financial Data Analysis 
-  - Natural Language Processing (sentiment analysis of Annual Reports for equity research)
-  - Spatial Data Analysis
-
+  
 __Other__
-  - BASH scripting
-  - Ethical Hacking concepts
-  - Excel/VBA for automation and financial modelling
-  - MySQL for data management
- 
+  - BASH scripting. MySQL, Excel/VBA, Ethical Hacking concepts
+  
 <!---
 WallStCrash/WallStCrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
