@@ -5,10 +5,11 @@ __Python__
   - Task automation (MS Excel, Windows tasks, Linux tasks, web-query tasks)
   - Computer Vision, Image Analysis and Remote Sensing
   - Natural Language Processing
-  - Machine Learning and Deep Learning
+  - Machine Learning, Deep Learning and Mathematics of ML
 
 __R__
-  - Data Analysis (wrangling, automation, visualisation) 
+  - General Data Analysis (wrangling, automation, visualisation)
+  - Financial Data Analysis 
   - Natural Language Processing (sentiment analysis of Annual Reports for equity research)
   - Spatial Data Analysis
 
