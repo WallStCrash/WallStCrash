@@ -6,7 +6,7 @@ __Python__
   - General Data Analysis
   - Financial Data Analysis
   - Natural Language Processing
-  - Natural Language Processing, Deep Learning and Mathematics of Machine Learning
+  - Machine Learning, and the Mathematics of Machine Learning
 
 __R__
   - General Data Analysis
