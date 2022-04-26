@@ -1,19 +1,20 @@
 Hi, I’m @WallStCrash
-I am primarily interested in learning techniques in Python and R to study several topics I am interested in.
+I am primarily interested in learning Python, R and Bash topics.
 
 __Python__
-  - General Automation
-  - General Data Analysis
-  - Financial Data Analysis
+  - Automation
+  - Data Analysis
   - Natural Language Processing
-  - Machine Learning, and the Mathematics of Machine Learning
+  - Machine Learning and associated Mathematics
 
 __R__
-  - General Data Analysis
-  - Financial Data Analysis 
+  - Data Analysis
   
 __Other__
-  - BASH scripting. MySQL, Excel/VBA, Ethical Hacking concepts
+  - BASH scripting
+  - SQL / Databases
+  - Excel / VBA / Financial Modelling
+  - Ethical Hacking
   
 <!---
 WallStCrash/WallStCrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
