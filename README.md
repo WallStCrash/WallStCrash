@@ -20,7 +20,8 @@ __Other__
   - Ethical hacking and network security topics
 
 __Mathematics__
-  - Mathematics for machine learnign -- LaTeX pdf file to be added at some point with my notes
+  - Mathematics for ML -- I will upload a LaTeX pdf file to be added at some point with my notes
+  - Will also upload some jupyter notebooks exploring the mathematical side too
   
 <!---
 WallStCrash/WallStCrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
