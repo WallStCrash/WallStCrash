@@ -1,21 +1,17 @@
 Hi, I’m @WallStCrash
 
-My primary interests are outlined below. Over time I plan to add scripts and code relating to the below langauges and subjects as a repository for myself, but shall make these publicly available if other people should find them useful. 
+I am interested in Python for task automation  and data analysis tasks, and interested in Bash for scripting.
 
 __Python__
   - Scripting / Task Automation
-  - Data Analysis
-  - Machine Learning
-  - Deep Learning (side-interest)
+  - Data Analysis / Machine Learning
 
 __R__
   - Statistical Data Analysis
-  - Natural Language Processing
   
 __Other__
   - Bash scripting for automation
-  - PowerShell scripting for automation
-  - Microsoft Excel and VBA for financial modelling
+  - VBA for Excel work
 
   
 <!---
