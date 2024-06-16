@@ -1,18 +1,8 @@
 Hi, I’m @WallStCrash
 
-I am interested in Python for task automation  and data analysis tasks, and interested in Bash for scripting.
-
-__Python__
-  - Scripting / Task Automation
-  - Data Analysis / Machine Learning
-
-__R__
-  - Statistical Data Analysis
-  
-__Other__
-  - Bash scripting for automation
-  - VBA for Excel work
-
+Interested in Python, R for data anaysis.
+Interested in Python, Bash for general task automation. 
+Dabbling in C++ for no particular purpose.
   
 <!---
 WallStCrash/WallStCrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
